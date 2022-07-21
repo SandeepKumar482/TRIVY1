@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "586343427670",
+    "firebase_url": "https://trivy-da737.firebaseio.com",
+    "project_id": "trivy-da737",
+    "storage_bucket": "trivy-da737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586343427670:android:44705f9da2abcd5425d5f7",
+        "android_client_info": {
+          "package_name": "in_.trivytech.trivy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586343427670-jenvv6uuivdm2khg04vea6l44ka468u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in_.trivytech.trivy",
+            "certificate_hash": "ecf7512a3f58658e09525376e91b77212fea4c01"
+          }
+        },
+        {
+          "client_id": "586343427670-v24801k0tslg90vvupqahmavqn6ttd4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in_.trivytech.trivy",
+            "certificate_hash": "d160d928ce0360e8d54b5500d5072a55f9007e15"
+          }
+        },
+        {
+          "client_id": "586343427670-6j7ifql1lsuuuk1jatqedqnerr5dor87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmqEzY6CIVf6w39_Lw8fWV2qdt0TRRbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586343427670-6j7ifql1lsuuuk1jatqedqnerr5dor87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586343427670:android:f556d1f1baf7672425d5f7",
+        "android_client_info": {
+          "package_name": "in_.trivytech3.trivy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586343427670-d7h3e2pc1v0offok66tqqbqqq2m95ur8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in_.trivytech3.trivy",
+            "certificate_hash": "ecf7512a3f58658e09525376e91b77212fea4c01"
+          }
+        },
+        {
+          "client_id": "586343427670-6j7ifql1lsuuuk1jatqedqnerr5dor87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmqEzY6CIVf6w39_Lw8fWV2qdt0TRRbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586343427670-6j7ifql1lsuuuk1jatqedqnerr5dor87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
